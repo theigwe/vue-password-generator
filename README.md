@@ -1,4 +1,8 @@
-# password-generator
+# Vue SPA Password Generator
+
+## Live demo
+See [https://sammyni.github.io/vue-password-generator/](https://sammyni.github.io/vue-password-generator/).
+
 
 ## Project setup
 ```
